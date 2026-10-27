@@ -1,4 +1,4 @@
-# Event Booking System
+# Simple Event Booking System
 
 A simple PHP and MySQL app for creating events and booking tickets. The booking total is always calculated on the server from the price stored in the database, never from a value sent by the browser.
 
